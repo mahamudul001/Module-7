@@ -1,1 +1,1 @@
-# laravel-module7
+# Module-7
